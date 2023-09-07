@@ -29,7 +29,7 @@ body {
 
 #pokemon-list {
     width: 250px;
-    height: 500px;
+    height: 700px;
     /* background-color: yellow; */
     font-size: 18px;
     overflow-y: auto;
