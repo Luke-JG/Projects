@@ -1,5 +1,8 @@
 # Projects
 Little Projects  
 
-*Speedtest - Python, (Novice) <br>
-*Pokedex - CSS with the Pokem<br>on API 
+*Speedtest - Python, (Novice)    
+*Pokedex - CSS with the Pokemon API   
+*Expense Tracker - Python
+*ToDoList - Python
+*WeatherApp - Python
